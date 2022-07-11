@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Output directory
+out
+
+# CLione project directory
+.idea
